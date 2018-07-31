@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:gdfuze.xcodeproj">
+      location = "self:/Users/bbarrows/repos/gdfuze/ww.xcodeproj">
    </FileRef>
 </Workspace>
