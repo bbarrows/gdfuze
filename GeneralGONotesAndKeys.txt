@@ -1,0 +1,185 @@
+go get -u github.com/nsf/gocode
+go get -u golang.org/x/tools/cmd/cover
+go get -u github.com/alecthomas/gometalinter
+go get -u github.com/zmb3/gogetdoc
+go get -u github.com/tools/godep
+
+
+brew cask install \
+    qlcolorcode \
+    qlstephen \
+    qlmarkdown \
+    quicklook-json \
+    qlprettypatch \
+    quicklook-csv \
+    betterzipql \
+    webpquicklook \
+    suspicious-package
+    alfred \
+    android-file-transfer \
+    asepsis \
+    appcleaner \
+    caffeine \
+    cheatsheet \
+    docker \
+    doubletwist \
+    dropbox \
+    google-chrome \
+    google-drive \
+    google-hangouts \
+    flux \
+    latexian \
+    1password \
+    pdftk \
+    spectacle \
+    sublime-text \
+    superduper \
+    totalfinder \
+    transmission \
+    valentina-studio \
+    vlc
+
+brew install golang go gnu-go
+
+
+
+
+
+I JUST NEEDED THIS TO INSTALL GOMAKE
+
+go get github.com/bytbox/gomake
+
+go get golang.org/x/tools/cmd/gotype
+go get golang.org/x/tools/cmd/getgo
+go get golang.org/x/tools/cmd/bundle
+
+
+
+
+
+
+
+
+https://developers.google.com/drive/api/v3/quickstart/go
+
+ Client ID
+684691682552-ri8cj582jtridtqi2ancb54el43ag1g6.apps.googleusercontent.com
+Client Secret
+12-TPlSkXgvzQFA0-smGU9I_ 
+
+
+
+
+https://developers.google.com/drive/api/v3/quickstart/go
+
+
+
+go get -u google.golang.org/api/drive/v3
+go get -u golang.org/x/oauth2/...
+
+
+
+go get -u google.golang.org/api/drive/v3
+
+
+
+
+
+
+
+
+
+GDrive Fuze Client Creds
+
+
+980393632587-qm9qeidup1n3p56dvucmm1ct228ungpu.apps.googleusercontent.com
+
+
+
+
+
+
+
+
+7bh_C4_cEHYYb9UKpFInsWWB
+
+
+
+
+
+Using bbarrowsdev@gmail.com
+
+
+ client ID 
+
+851538499745-92ro1eeibr39ok2g1qtj8756p9t6vuch.apps.googleusercontent.com
+
+
+ client secret
+
+
+gdDwU3l6XGzOFFREVbb4KGd7
+
+
+
+
+{"installed":{"client_id":"851538499745-92ro1eeibr39ok2g1qtj8756p9t6vuch.apps.googleusercontent.com","project_id":"gdrive-211917","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://accounts.google.com/o/oauth2/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"gdDwU3l6XGzOFFREVbb4KGd7","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
